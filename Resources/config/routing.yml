@@ -1,0 +1,3 @@
+SwVocabulariesBundle_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: SwVocabulariesBundle:Default:index }

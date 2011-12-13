@@ -1,0 +1,7 @@
+parameters:
+#    sw_vocabularies.example.class: Sw\VocabulariesBundle\Example
+
+services:
+#    sw_vocabularies.example:
+#        class: %sw_vocabularies.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
